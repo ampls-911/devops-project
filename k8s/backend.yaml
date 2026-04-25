@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: YOUR_DOCKERHUB_USERNAME/devops-backend:latest
+          image: ampls9/devops-backend:latest
           ports:
             - containerPort: 5000
           env:

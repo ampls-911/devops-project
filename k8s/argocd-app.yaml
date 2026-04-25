@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_GITHUB_USERNAME/devops-project.git
+    repoURL: https://github.com/ampls-911/devops-project.git
     targetRevision: main
     path: k8s
   destination:
