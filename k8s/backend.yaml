@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: ampls9/devops-backend:latest
+          image: ampls9/devops-backend:2b5276c
           ports:
             - containerPort: 5000
           env:

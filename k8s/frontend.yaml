@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: ampls9/devops-frontend:latest
+          image: ampls9/devops-frontend:2b5276c
           ports:
             - containerPort: 80
           resources:
